@@ -1,0 +1,1654 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Ballot Drop Off Locations</name>
+    <Style id="icon-1899-0288D1-normal">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-0288D1-highlight">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-0288D1">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-0288D1-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-0288D1-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Placemark>
+      <name><![CDATA[Apache County Sherrif's Sub]]></name>
+      <address>1100 US-180 Springerville AZ 85938</address>
+      <description><![CDATA[Address: 1100 US-180<br>City: Springerville<br>State: AZ<br>Zip: 85938<br>Notes: 24 hours<br>Url: https://www.azcleanelections.gov/how-to-vote/early-voting/vote-by-mail#googlemap]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="Address">
+          <value>1100 US-180</value>
+        </Data>
+        <Data name="City">
+          <value>Springerville</value>
+        </Data>
+        <Data name="State">
+          <value>AZ</value>
+        </Data>
+        <Data name="Zip">
+          <value>85938</value>
+        </Data>
+        <Data name="Notes">
+          <value>24 hours</value>
+        </Data>
+        <Data name="Url">
+          <value>https://www.azcleanelections.gov/how-to-vote/early-voting/vote-by-mail#googlemap</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Apache County Recorder</name>
+      <address>75 W Cleveland St. St. Johns AZ 85936</address>
+      <description><![CDATA[Address: 75 W Cleveland St.<br>City: St. Johns<br>State: AZ<br>Zip: 85936<br>Notes: 24 hour<br>Url: https://www.azcleanelections.gov/how-to-vote/early-voting/vote-by-mail#googlemap]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="Address">
+          <value>75 W Cleveland St.</value>
+        </Data>
+        <Data name="City">
+          <value>St. Johns</value>
+        </Data>
+        <Data name="State">
+          <value>AZ</value>
+        </Data>
+        <Data name="Zip">
+          <value>85936</value>
+        </Data>
+        <Data name="Notes">
+          <value>24 hour</value>
+        </Data>
+        <Data name="Url">
+          <value>https://www.azcleanelections.gov/how-to-vote/early-voting/vote-by-mail#googlemap</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Cochise County Recorder</name>
+      <address>1415 W Melody Ln building b Bisbee AZ 85603</address>
+      <description><![CDATA[Address: 1415 W Melody Ln building b<br>City: Bisbee<br>State: AZ<br>Zip: 85603<br>Notes: Monday-Friday 8:00am-5:00pm<br>Url: https://www.azcleanelections.gov/how-to-vote/early-voting/vote-by-mail#googlemap]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="Address">
+          <value>1415 W Melody Ln building b</value>
+        </Data>
+        <Data name="City">
+          <value>Bisbee</value>
+        </Data>
+        <Data name="State">
+          <value>AZ</value>
+        </Data>
+        <Data name="Zip">
+          <value>85603</value>
+        </Data>
+        <Data name="Notes">
+          <value>Monday-Friday 8:00am-5:00pm</value>
+        </Data>
+        <Data name="Url">
+          <value>https://www.azcleanelections.gov/how-to-vote/early-voting/vote-by-mail#googlemap</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Cochise County Justice-Peace</name>
+      <address>126 W 5th St #1 Benson AZ 85602</address>
+      <description><![CDATA[Address: 126 W 5th St #1<br>City: Benson<br>State: AZ<br>Zip: 85602<br>Notes: Monday-Friday 8:00am-5:00pm<br>Url: https://www.azcleanelections.gov/how-to-vote/early-voting/vote-by-mail#googlemap]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="Address">
+          <value>126 W 5th St #1</value>
+        </Data>
+        <Data name="City">
+          <value>Benson</value>
+        </Data>
+        <Data name="State">
+          <value>AZ</value>
+        </Data>
+        <Data name="Zip">
+          <value>85602</value>
+        </Data>
+        <Data name="Notes">
+          <value>Monday-Friday 8:00am-5:00pm</value>
+        </Data>
+        <Data name="Url">
+          <value>https://www.azcleanelections.gov/how-to-vote/early-voting/vote-by-mail#googlemap</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Cochise County Justice-Peace</name>
+      <address>1012 N G Ave Douglas AZ 85607</address>
+      <description><![CDATA[Address: 1012 N G Ave<br>City: Douglas<br>State: AZ<br>Zip: 85607<br>Notes: Monday-Friday 8:00am-5:00pm<br>Url: https://www.azcleanelections.gov/how-to-vote/early-voting/vote-by-mail#googlemap]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="Address">
+          <value>1012 N G Ave</value>
+        </Data>
+        <Data name="City">
+          <value>Douglas</value>
+        </Data>
+        <Data name="State">
+          <value>AZ</value>
+        </Data>
+        <Data name="Zip">
+          <value>85607</value>
+        </Data>
+        <Data name="Notes">
+          <value>Monday-Friday 8:00am-5:00pm</value>
+        </Data>
+        <Data name="Url">
+          <value>https://www.azcleanelections.gov/how-to-vote/early-voting/vote-by-mail#googlemap</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Cochise County Assessor</name>
+      <address>4001 E Foothills Dr Sierra Vista AZ 85635</address>
+      <description><![CDATA[Address: 4001 E Foothills Dr<br>City: Sierra Vista<br>State: AZ<br>Zip: 85635<br>Notes: Monday-Friday 8:00am-5:00pm<br>Url: https://www.azcleanelections.gov/how-to-vote/early-voting/vote-by-mail#googlemap]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="Address">
+          <value>4001 E Foothills Dr</value>
+        </Data>
+        <Data name="City">
+          <value>Sierra Vista</value>
+        </Data>
+        <Data name="State">
+          <value>AZ</value>
+        </Data>
+        <Data name="Zip">
+          <value>85635</value>
+        </Data>
+        <Data name="Notes">
+          <value>Monday-Friday 8:00am-5:00pm</value>
+        </Data>
+        <Data name="Url">
+          <value>https://www.azcleanelections.gov/how-to-vote/early-voting/vote-by-mail#googlemap</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Sierra Vista City Hall</name>
+      <address>1011 Coronado Dr Sierra Vista AZ 85635</address>
+      <description><![CDATA[Address: 1011 Coronado Dr<br>City: Sierra Vista<br>State: AZ<br>Zip: 85635<br>Notes: M-F from 8 AM to 5 PM<br>Url: https://www.azcleanelections.gov/how-to-vote/early-voting/vote-by-mail#googlemap]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="Address">
+          <value>1011 Coronado Dr</value>
+        </Data>
+        <Data name="City">
+          <value>Sierra Vista</value>
+        </Data>
+        <Data name="State">
+          <value>AZ</value>
+        </Data>
+        <Data name="Zip">
+          <value>85635</value>
+        </Data>
+        <Data name="Notes">
+          <value>M-F from 8 AM to 5 PM</value>
+        </Data>
+        <Data name="Url">
+          <value>https://www.azcleanelections.gov/how-to-vote/early-voting/vote-by-mail#googlemap</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Willcox Justice Court</name>
+      <address>450 S Haskell Ave # D Wilcox AZ 85643</address>
+      <description><![CDATA[Address: 450 S Haskell Ave # D<br>City: Wilcox<br>State: AZ<br>Zip: 85643<br>Notes: Monday-Friday 8:00am-5:00pm<br>Url: https://www.azcleanelections.gov/how-to-vote/early-voting/vote-by-mail#googlemap]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="Address">
+          <value>450 S Haskell Ave # D</value>
+        </Data>
+        <Data name="City">
+          <value>Wilcox</value>
+        </Data>
+        <Data name="State">
+          <value>AZ</value>
+        </Data>
+        <Data name="Zip">
+          <value>85643</value>
+        </Data>
+        <Data name="Notes">
+          <value>Monday-Friday 8:00am-5:00pm</value>
+        </Data>
+        <Data name="Url">
+          <value>https://www.azcleanelections.gov/how-to-vote/early-voting/vote-by-mail#googlemap</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Gila County Recorder</name>
+      <address>201 W Frontier St Payson AZ 85541</address>
+      <description><![CDATA[Address: 201 W Frontier St<br>City: Payson<br>State: AZ<br>Zip: 85541<br>Notes: Monday-Friday 8:00am-5:00pm (closed 12pm-1pm)<br>Url: https://www.azcleanelections.gov/how-to-vote/early-voting/vote-by-mail#googlemap]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="Address">
+          <value>201 W Frontier St</value>
+        </Data>
+        <Data name="City">
+          <value>Payson</value>
+        </Data>
+        <Data name="State">
+          <value>AZ</value>
+        </Data>
+        <Data name="Zip">
+          <value>85541</value>
+        </Data>
+        <Data name="Notes">
+          <value>Monday-Friday 8:00am-5:00pm (closed 12pm-1pm)</value>
+        </Data>
+        <Data name="Url">
+          <value>https://www.azcleanelections.gov/how-to-vote/early-voting/vote-by-mail#googlemap</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Gila County Recorder</name>
+      <address>1400 E Ash St Globe AZ 85501</address>
+      <description><![CDATA[Address: 1400 E Ash St<br>City: Globe<br>State: AZ<br>Zip: 85501<br>Notes: 24 Hour<br>Url: https://www.azcleanelections.gov/how-to-vote/early-voting/vote-by-mail#googlemap]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="Address">
+          <value>1400 E Ash St</value>
+        </Data>
+        <Data name="City">
+          <value>Globe</value>
+        </Data>
+        <Data name="State">
+          <value>AZ</value>
+        </Data>
+        <Data name="Zip">
+          <value>85501</value>
+        </Data>
+        <Data name="Notes">
+          <value>24 Hour</value>
+        </Data>
+        <Data name="Url">
+          <value>https://www.azcleanelections.gov/how-to-vote/early-voting/vote-by-mail#googlemap</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Graham County Assessor’s Office</name>
+      <address>921 W Thatcher Blvd Safford AZ 85546</address>
+      <description><![CDATA[Address: 921 W Thatcher Blvd<br>City: Safford<br>State: AZ<br>Zip: 85546<br>Notes: 24 hours<br>Url: https://www.graham.az.gov/314/How-To-Return-Your-Early-Ballot]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="Address">
+          <value>921 W Thatcher Blvd</value>
+        </Data>
+        <Data name="City">
+          <value>Safford</value>
+        </Data>
+        <Data name="State">
+          <value>AZ</value>
+        </Data>
+        <Data name="Zip">
+          <value>85546</value>
+        </Data>
+        <Data name="Notes">
+          <value>24 hours</value>
+        </Data>
+        <Data name="Url">
+          <value>https://www.graham.az.gov/314/How-To-Return-Your-Early-Ballot</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>City of Avondale City Hall</name>
+      <address>11465 Civic Center Dr Avondale AZ 85323</address>
+      <description><![CDATA[Address: 11465 Civic Center Dr<br>City: Avondale<br>State: AZ<br>Zip: 85323<br>Notes: <br>Url: https://www.azcleanelections.gov/how-to-vote/early-voting/vote-by-mail#googlemap]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="Address">
+          <value>11465 Civic Center Dr</value>
+        </Data>
+        <Data name="City">
+          <value>Avondale</value>
+        </Data>
+        <Data name="State">
+          <value>AZ</value>
+        </Data>
+        <Data name="Zip">
+          <value>85323</value>
+        </Data>
+        <Data name="Notes">
+          <value/>
+        </Data>
+        <Data name="Url">
+          <value>https://www.azcleanelections.gov/how-to-vote/early-voting/vote-by-mail#googlemap</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Cave Creek Town Clerk</name>
+      <address>37622 N Cave Creek Rd Cave Creek AZ 85331</address>
+      <description><![CDATA[Address: 37622 N Cave Creek Rd<br>City: Cave Creek<br>State: AZ<br>Zip: 85331<br>Notes: <br>Url: https://www.azcleanelections.gov/how-to-vote/early-voting/vote-by-mail#googlemap]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="Address">
+          <value>37622 N Cave Creek Rd</value>
+        </Data>
+        <Data name="City">
+          <value>Cave Creek</value>
+        </Data>
+        <Data name="State">
+          <value>AZ</value>
+        </Data>
+        <Data name="Zip">
+          <value>85331</value>
+        </Data>
+        <Data name="Notes">
+          <value/>
+        </Data>
+        <Data name="Url">
+          <value>https://www.azcleanelections.gov/how-to-vote/early-voting/vote-by-mail#googlemap</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Chandler City Hall</name>
+      <address>175 S Arizona Ave Chandler AZ 85225</address>
+      <description><![CDATA[Address: 175 S Arizona Ave<br>City: Chandler<br>State: AZ<br>Zip: 85225<br>Notes: <br>Url: https://www.azcleanelections.gov/how-to-vote/early-voting/vote-by-mail#googlemap]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="Address">
+          <value>175 S Arizona Ave</value>
+        </Data>
+        <Data name="City">
+          <value>Chandler</value>
+        </Data>
+        <Data name="State">
+          <value>AZ</value>
+        </Data>
+        <Data name="Zip">
+          <value>85225</value>
+        </Data>
+        <Data name="Notes">
+          <value/>
+        </Data>
+        <Data name="Url">
+          <value>https://www.azcleanelections.gov/how-to-vote/early-voting/vote-by-mail#googlemap</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>El Mirage City Hall</name>
+      <address>10000 N El Mirage Rd El Mirage AZ 85335</address>
+      <description><![CDATA[Address: 10000 N El Mirage Rd<br>City: El Mirage<br>State: AZ<br>Zip: 85335<br>Notes: <br>Url: https://www.azcleanelections.gov/how-to-vote/early-voting/vote-by-mail#googlemap]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="Address">
+          <value>10000 N El Mirage Rd</value>
+        </Data>
+        <Data name="City">
+          <value>El Mirage</value>
+        </Data>
+        <Data name="State">
+          <value>AZ</value>
+        </Data>
+        <Data name="Zip">
+          <value>85335</value>
+        </Data>
+        <Data name="Notes">
+          <value/>
+        </Data>
+        <Data name="Url">
+          <value>https://www.azcleanelections.gov/how-to-vote/early-voting/vote-by-mail#googlemap</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Glendale City Hall</name>
+      <address>5850 West Glendale Avenue Glendale AZ 85301</address>
+      <description><![CDATA[Address: 5850 West Glendale Avenue<br>City: Glendale<br>State: AZ<br>Zip: 85301<br>Notes: <br>Url: https://www.azcleanelections.gov/how-to-vote/early-voting/vote-by-mail#googlemap]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="Address">
+          <value>5850 West Glendale Avenue</value>
+        </Data>
+        <Data name="City">
+          <value>Glendale</value>
+        </Data>
+        <Data name="State">
+          <value>AZ</value>
+        </Data>
+        <Data name="Zip">
+          <value>85301</value>
+        </Data>
+        <Data name="Notes">
+          <value/>
+        </Data>
+        <Data name="Url">
+          <value>https://www.azcleanelections.gov/how-to-vote/early-voting/vote-by-mail#googlemap</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Goodyear City Hall</name>
+      <address>190 N Litchfield Rd, Goodyear Goodyear AZ 85338</address>
+      <description><![CDATA[Address: 190 N Litchfield Rd, Goodyear<br>City: Goodyear<br>State: AZ<br>Zip: 85338<br>Notes: <br>Url: https://www.azcleanelections.gov/how-to-vote/early-voting/vote-by-mail#googlemap]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="Address">
+          <value>190 N Litchfield Rd, Goodyear</value>
+        </Data>
+        <Data name="City">
+          <value>Goodyear</value>
+        </Data>
+        <Data name="State">
+          <value>AZ</value>
+        </Data>
+        <Data name="Zip">
+          <value>85338</value>
+        </Data>
+        <Data name="Notes">
+          <value/>
+        </Data>
+        <Data name="Url">
+          <value>https://www.azcleanelections.gov/how-to-vote/early-voting/vote-by-mail#googlemap</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Litchfield Park City Hall</name>
+      <address>214 W Wigwam Blvd Litchfield Park AZ 85340</address>
+      <description><![CDATA[Address: 214 W Wigwam Blvd<br>City: Litchfield Park<br>State: AZ<br>Zip: 85340<br>Notes: <br>Url: https://www.azcleanelections.gov/how-to-vote/early-voting/vote-by-mail#googlemap]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="Address">
+          <value>214 W Wigwam Blvd</value>
+        </Data>
+        <Data name="City">
+          <value>Litchfield Park</value>
+        </Data>
+        <Data name="State">
+          <value>AZ</value>
+        </Data>
+        <Data name="Zip">
+          <value>85340</value>
+        </Data>
+        <Data name="Notes">
+          <value/>
+        </Data>
+        <Data name="Url">
+          <value>https://www.azcleanelections.gov/how-to-vote/early-voting/vote-by-mail#googlemap</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>MCTEC Office</name>
+      <address>510 S. Third Ave. Phoenix AZ 85003</address>
+      <description><![CDATA[Address: 510 S. Third Ave.<br>City: Phoenix<br>State: AZ<br>Zip: 85003<br>Notes: <br>Url: https://www.azcleanelections.gov/how-to-vote/early-voting/vote-by-mail#googlemap]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="Address">
+          <value>510 S. Third Ave.</value>
+        </Data>
+        <Data name="City">
+          <value>Phoenix</value>
+        </Data>
+        <Data name="State">
+          <value>AZ</value>
+        </Data>
+        <Data name="Zip">
+          <value>85003</value>
+        </Data>
+        <Data name="Notes">
+          <value/>
+        </Data>
+        <Data name="Url">
+          <value>https://www.azcleanelections.gov/how-to-vote/early-voting/vote-by-mail#googlemap</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Mesa City Clerk</name>
+      <address>20 E Main St #150 Mesa AZ 85201</address>
+      <description><![CDATA[Address: 20 E Main St #150<br>City: Mesa<br>State: AZ<br>Zip: 85201<br>Notes: <br>Url: https://www.azcleanelections.gov/how-to-vote/early-voting/vote-by-mail#googlemap]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="Address">
+          <value>20 E Main St #150</value>
+        </Data>
+        <Data name="City">
+          <value>Mesa</value>
+        </Data>
+        <Data name="State">
+          <value>AZ</value>
+        </Data>
+        <Data name="Zip">
+          <value>85201</value>
+        </Data>
+        <Data name="Notes">
+          <value/>
+        </Data>
+        <Data name="Url">
+          <value>https://www.azcleanelections.gov/how-to-vote/early-voting/vote-by-mail#googlemap</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Paradise Valley Town Hall</name>
+      <address>6401 E Lincoln Dr Paradise Valley AZ 85253</address>
+      <description><![CDATA[Address: 6401 E Lincoln Dr<br>City: Paradise Valley<br>State: AZ<br>Zip: 85253<br>Notes: <br>Url: https://www.azcleanelections.gov/how-to-vote/early-voting/vote-by-mail#googlemap]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="Address">
+          <value>6401 E Lincoln Dr</value>
+        </Data>
+        <Data name="City">
+          <value>Paradise Valley</value>
+        </Data>
+        <Data name="State">
+          <value>AZ</value>
+        </Data>
+        <Data name="Zip">
+          <value>85253</value>
+        </Data>
+        <Data name="Notes">
+          <value/>
+        </Data>
+        <Data name="Url">
+          <value>https://www.azcleanelections.gov/how-to-vote/early-voting/vote-by-mail#googlemap</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Peoria City Hall</name>
+      <address>8401 W Monroe St Peoria AZ 85345</address>
+      <description><![CDATA[Address: 8401 W Monroe St<br>City: Peoria<br>State: AZ<br>Zip: 85345<br>Notes: <br>Url: https://www.azcleanelections.gov/how-to-vote/early-voting/vote-by-mail#googlemap]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="Address">
+          <value>8401 W Monroe St</value>
+        </Data>
+        <Data name="City">
+          <value>Peoria</value>
+        </Data>
+        <Data name="State">
+          <value>AZ</value>
+        </Data>
+        <Data name="Zip">
+          <value>85345</value>
+        </Data>
+        <Data name="Notes">
+          <value/>
+        </Data>
+        <Data name="Url">
+          <value>https://www.azcleanelections.gov/how-to-vote/early-voting/vote-by-mail#googlemap</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Scottsdale City Hall</name>
+      <address>3939 N Drinkwater Blvd Scottsdale AZ 85251</address>
+      <description><![CDATA[Address: 3939 N Drinkwater Blvd<br>City: Scottsdale<br>State: AZ<br>Zip: 85251<br>Notes: <br>Url: https://www.azcleanelections.gov/how-to-vote/early-voting/vote-by-mail#googlemap]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="Address">
+          <value>3939 N Drinkwater Blvd</value>
+        </Data>
+        <Data name="City">
+          <value>Scottsdale</value>
+        </Data>
+        <Data name="State">
+          <value>AZ</value>
+        </Data>
+        <Data name="Zip">
+          <value>85251</value>
+        </Data>
+        <Data name="Notes">
+          <value/>
+        </Data>
+        <Data name="Url">
+          <value>https://www.azcleanelections.gov/how-to-vote/early-voting/vote-by-mail#googlemap</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Wickenburg/Maricopa County Municipal building</name>
+      <address>155 N Tegner St Wickenburg AZ 85390</address>
+      <description><![CDATA[Address: 155 N Tegner St<br>City: Wickenburg<br>State: AZ<br>Zip: 85390<br>Notes: <br>Url: https://www.azcleanelections.gov/how-to-vote/early-voting/vote-by-mail#googlemap]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="Address">
+          <value>155 N Tegner St</value>
+        </Data>
+        <Data name="City">
+          <value>Wickenburg</value>
+        </Data>
+        <Data name="State">
+          <value>AZ</value>
+        </Data>
+        <Data name="Zip">
+          <value>85390</value>
+        </Data>
+        <Data name="Notes">
+          <value/>
+        </Data>
+        <Data name="Url">
+          <value>https://www.azcleanelections.gov/how-to-vote/early-voting/vote-by-mail#googlemap</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Youngtown Town Hall</name>
+      <address>12030 N Club House Sq Youngtown AZ 85363</address>
+      <description><![CDATA[Address: 12030 N Club House Sq<br>City: Youngtown<br>State: AZ<br>Zip: 85363<br>Notes: <br>Url: https://www.azcleanelections.gov/how-to-vote/early-voting/vote-by-mail#googlemap]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="Address">
+          <value>12030 N Club House Sq</value>
+        </Data>
+        <Data name="City">
+          <value>Youngtown</value>
+        </Data>
+        <Data name="State">
+          <value>AZ</value>
+        </Data>
+        <Data name="Zip">
+          <value>85363</value>
+        </Data>
+        <Data name="Notes">
+          <value/>
+        </Data>
+        <Data name="Url">
+          <value>https://www.azcleanelections.gov/how-to-vote/early-voting/vote-by-mail#googlemap</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Heber/Overgaard - North County Complex</name>
+      <address>2188 W. Country Club Dr. Overgaard AZ 85933</address>
+      <description><![CDATA[Address: 2188 W. Country Club Dr.<br>City: Overgaard<br>State: AZ<br>Zip: 85933<br>Notes: 24 Hours<br>Url: https://navajocountyaz.gov/Departments/Recorder/Secure-Ballot-Drop-Box-Information]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="Address">
+          <value>2188 W. Country Club Dr.</value>
+        </Data>
+        <Data name="City">
+          <value>Overgaard</value>
+        </Data>
+        <Data name="State">
+          <value>AZ</value>
+        </Data>
+        <Data name="Zip">
+          <value>85933</value>
+        </Data>
+        <Data name="Notes">
+          <value>24 Hours</value>
+        </Data>
+        <Data name="Url">
+          <value>https://navajocountyaz.gov/Departments/Recorder/Secure-Ballot-Drop-Box-Information</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Holbrook Justice Court</name>
+      <address>121 W. Buffalo Street Holbrook AZ 86025</address>
+      <description><![CDATA[Address: 121 W. Buffalo Street<br>City: Holbrook<br>State: AZ<br>Zip: 86025<br>Notes: 24 Hours<br>Url: https://navajocountyaz.gov/Departments/Recorder/Secure-Ballot-Drop-Box-Information]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="Address">
+          <value>121 W. Buffalo Street</value>
+        </Data>
+        <Data name="City">
+          <value>Holbrook</value>
+        </Data>
+        <Data name="State">
+          <value>AZ</value>
+        </Data>
+        <Data name="Zip">
+          <value>86025</value>
+        </Data>
+        <Data name="Notes">
+          <value>24 Hours</value>
+        </Data>
+        <Data name="Url">
+          <value>https://navajocountyaz.gov/Departments/Recorder/Secure-Ballot-Drop-Box-Information</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Pinetop-Lakeside Town Hall</name>
+      <address>325 W White Mountain Blvd Lakeside AZ 85929</address>
+      <description><![CDATA[Address: 325 W White Mountain Blvd<br>City: Lakeside<br>State: AZ<br>Zip: 85929<br>Notes: 24 Hours<br>Url: https://navajocountyaz.gov/Departments/Recorder/Secure-Ballot-Drop-Box-Information]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="Address">
+          <value>325 W White Mountain Blvd</value>
+        </Data>
+        <Data name="City">
+          <value>Lakeside</value>
+        </Data>
+        <Data name="State">
+          <value>AZ</value>
+        </Data>
+        <Data name="Zip">
+          <value>85929</value>
+        </Data>
+        <Data name="Notes">
+          <value>24 Hours</value>
+        </Data>
+        <Data name="Url">
+          <value>https://navajocountyaz.gov/Departments/Recorder/Secure-Ballot-Drop-Box-Information</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Show Low Health Dept</name>
+      <address>550 N. 9th Place Show Low AZ 85901</address>
+      <description><![CDATA[Address: 550 N. 9th Place<br>City: Show Low<br>State: AZ<br>Zip: 85901<br>Notes: 24 Hours<br>Url: https://navajocountyaz.gov/Departments/Recorder/Secure-Ballot-Drop-Box-Information]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="Address">
+          <value>550 N. 9th Place</value>
+        </Data>
+        <Data name="City">
+          <value>Show Low</value>
+        </Data>
+        <Data name="State">
+          <value>AZ</value>
+        </Data>
+        <Data name="Zip">
+          <value>85901</value>
+        </Data>
+        <Data name="Notes">
+          <value>24 Hours</value>
+        </Data>
+        <Data name="Url">
+          <value>https://navajocountyaz.gov/Departments/Recorder/Secure-Ballot-Drop-Box-Information</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Snowflake Justice Court</name>
+      <address>145 South Main Snowflake AZ 85937</address>
+      <description><![CDATA[Address: 145 South Main<br>City: Snowflake<br>State: AZ<br>Zip: 85937<br>Notes: 24 Hours<br>Url: https://navajocountyaz.gov/Departments/Recorder/Secure-Ballot-Drop-Box-Information]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="Address">
+          <value>145 South Main</value>
+        </Data>
+        <Data name="City">
+          <value>Snowflake</value>
+        </Data>
+        <Data name="State">
+          <value>AZ</value>
+        </Data>
+        <Data name="Zip">
+          <value>85937</value>
+        </Data>
+        <Data name="Notes">
+          <value>24 Hours</value>
+        </Data>
+        <Data name="Url">
+          <value>https://navajocountyaz.gov/Departments/Recorder/Secure-Ballot-Drop-Box-Information</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Winslow Justice Court</name>
+      <address>619 E. 3rd Street Winslow AZ 86047</address>
+      <description><![CDATA[Address: 619 E. 3rd Street<br>City: Winslow<br>State: AZ<br>Zip: 86047<br>Notes: 24 Hours<br>Url: https://navajocountyaz.gov/Departments/Recorder/Secure-Ballot-Drop-Box-Information]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="Address">
+          <value>619 E. 3rd Street</value>
+        </Data>
+        <Data name="City">
+          <value>Winslow</value>
+        </Data>
+        <Data name="State">
+          <value>AZ</value>
+        </Data>
+        <Data name="Zip">
+          <value>86047</value>
+        </Data>
+        <Data name="Notes">
+          <value>24 Hours</value>
+        </Data>
+        <Data name="Url">
+          <value>https://navajocountyaz.gov/Departments/Recorder/Secure-Ballot-Drop-Box-Information</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Recorder's Main Office]]></name>
+      <address>240 N Stone Ave. Tucson AZ 85701</address>
+      <description><![CDATA[Address: 240 N Stone Ave.<br>City: Tucson<br>State: AZ<br>Zip: 85701<br>Notes: County Public Service Center, Downtown Curbside ballot drop off October 26 - November 2 Hours: M-F 10/7 to 10/30 8 am - 5 pm<br>Url: From Email elections@pima.gov]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="Address">
+          <value>240 N Stone Ave.</value>
+        </Data>
+        <Data name="City">
+          <value>Tucson</value>
+        </Data>
+        <Data name="State">
+          <value>AZ</value>
+        </Data>
+        <Data name="Zip">
+          <value>85701</value>
+        </Data>
+        <Data name="Notes">
+          <value>County Public Service Center, Downtown Curbside ballot drop off October 26 - November 2 Hours: M-F 10/7 to 10/30 8 am - 5 pm</value>
+        </Data>
+        <Data name="Url">
+          <value>From Email elections@pima.gov</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Recorder's East Side Annex]]></name>
+      <address>6920 E Broadway Blvd., Suite D Tucson AZ 85710</address>
+      <description><![CDATA[Address: 6920 E Broadway Blvd., Suite D<br>City: Tucson<br>State: AZ<br>Zip: 85710<br>Notes: Curbside ballot drop off available October 26 - November 2 Hours: M-F 10/7 to 10/30 8 am - 5 pm<br>Url: From Email elections@pima.gov]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="Address">
+          <value>6920 E Broadway Blvd., Suite D</value>
+        </Data>
+        <Data name="City">
+          <value>Tucson</value>
+        </Data>
+        <Data name="State">
+          <value>AZ</value>
+        </Data>
+        <Data name="Zip">
+          <value>85710</value>
+        </Data>
+        <Data name="Notes">
+          <value>Curbside ballot drop off available October 26 - November 2 Hours: M-F 10/7 to 10/30 8 am - 5 pm</value>
+        </Data>
+        <Data name="Url">
+          <value>From Email elections@pima.gov</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Recorder's Ballot Processing Center]]></name>
+      <address>6550 S Country Club Rd. Tucson AZ 85756</address>
+      <description><![CDATA[Address: 6550 S Country Club Rd.<br>City: Tucson<br>State: AZ<br>Zip: 85756<br>Notes: 1 block south of Valencia on west side of street, Curbside ballot drop off available October 26 - November 2 Hours: M-F 10/7 to 10/30 8 am - 5 pm<br>Url: From Email elections@pima.gov]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="Address">
+          <value>6550 S Country Club Rd.</value>
+        </Data>
+        <Data name="City">
+          <value>Tucson</value>
+        </Data>
+        <Data name="State">
+          <value>AZ</value>
+        </Data>
+        <Data name="Zip">
+          <value>85756</value>
+        </Data>
+        <Data name="Notes">
+          <value>1 block south of Valencia on west side of street, Curbside ballot drop off available October 26 - November 2 Hours: M-F 10/7 to 10/30 8 am - 5 pm</value>
+        </Data>
+        <Data name="Url">
+          <value>From Email elections@pima.gov</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Oro Valley Library</name>
+      <address>1305 W Naranja Dr Oro Valley AZ 85737</address>
+      <description><![CDATA[Address: 1305 W Naranja Dr<br>City: Oro Valley<br>State: AZ<br>Zip: 85737<br>Notes: At intersection of La Cañada Dr. Curbside ballot drop off available 10/26/20 through 10/30/20 Hours: Mon, Weds, Fri: 9 am - 5 pm Tues, Thurs: 10 am - 7 pm<br>Url: From Email elections@pima.gov]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="Address">
+          <value>1305 W Naranja Dr</value>
+        </Data>
+        <Data name="City">
+          <value>Oro Valley</value>
+        </Data>
+        <Data name="State">
+          <value>AZ</value>
+        </Data>
+        <Data name="Zip">
+          <value>85737</value>
+        </Data>
+        <Data name="Notes">
+          <value>At intersection of La Cañada Dr. Curbside ballot drop off available 10/26/20 through 10/30/20 Hours: Mon, Weds, Fri: 9 am - 5 pm Tues, Thurs: 10 am - 7 pm</value>
+        </Data>
+        <Data name="Url">
+          <value>From Email elections@pima.gov</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Pima County Natural Resources/Parks and Recreation Building</name>
+      <address>3500 W River Rd. Tucson AZ 85741</address>
+      <description><![CDATA[Address: 3500 W River Rd.<br>City: Tucson<br>State: AZ<br>Zip: 85741<br>Notes: Approximately half mile south of Orange Grove Rd. Curbside ballot drop off available 10/26/20 through 10/30/20 Hours: M-F 9 am - 5 pm<br>Url: From Email elections@pima.gov]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="Address">
+          <value>3500 W River Rd.</value>
+        </Data>
+        <Data name="City">
+          <value>Tucson</value>
+        </Data>
+        <Data name="State">
+          <value>AZ</value>
+        </Data>
+        <Data name="Zip">
+          <value>85741</value>
+        </Data>
+        <Data name="Notes">
+          <value>Approximately half mile south of Orange Grove Rd. Curbside ballot drop off available 10/26/20 through 10/30/20 Hours: M-F 9 am - 5 pm</value>
+        </Data>
+        <Data name="Url">
+          <value>From Email elections@pima.gov</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Woods Library</name>
+      <address>3455 N 1st Ave Tucson AZ 85719</address>
+      <description><![CDATA[Address: 3455 N 1st Ave<br>City: Tucson<br>State: AZ<br>Zip: 85719<br>Notes: Between Prince and Fort Lowell Curbside ballot drop off available 10/26/20 - 10/30/20 HoursMon,Wed, Fri: 9 am - 5 pm; Tues, Thurs: 10 am - 7 pm<br>Url: From Email elections@pima.gov]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="Address">
+          <value>3455 N 1st Ave</value>
+        </Data>
+        <Data name="City">
+          <value>Tucson</value>
+        </Data>
+        <Data name="State">
+          <value>AZ</value>
+        </Data>
+        <Data name="Zip">
+          <value>85719</value>
+        </Data>
+        <Data name="Notes">
+          <value>Between Prince and Fort Lowell Curbside ballot drop off available 10/26/20 - 10/30/20 HoursMon,Wed, Fri: 9 am - 5 pm; Tues, Thurs: 10 am - 7 pm</value>
+        </Data>
+        <Data name="Url">
+          <value>From Email elections@pima.gov</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Wheeler Taft Abbett Library</name>
+      <address>7800 N Schisler Dr Tucson AZ 85743</address>
+      <description><![CDATA[Address: 7800 N Schisler Dr<br>City: Tucson<br>State: AZ<br>Zip: 85743<br>Notes: 1 block south of Cortaro Rd., 2 blocks east of  Silverbell Rd. next to Silverbell District Park Behind Lehman Academy; Curbside ballot drop off available 10/26/20 - 10/30/20  Mon, Weds, Fri: 9 am - 5 pm; Tues, Thurs: 10 am - 7 pm<br>Url: From Email elections@pima.gov]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="Address">
+          <value>7800 N Schisler Dr</value>
+        </Data>
+        <Data name="City">
+          <value>Tucson</value>
+        </Data>
+        <Data name="State">
+          <value>AZ</value>
+        </Data>
+        <Data name="Zip">
+          <value>85743</value>
+        </Data>
+        <Data name="Notes">
+          <value>1 block south of Cortaro Rd., 2 blocks east of  Silverbell Rd. next to Silverbell District Park Behind Lehman Academy; Curbside ballot drop off available 10/26/20 - 10/30/20  Mon, Weds, Fri: 9 am - 5 pm; Tues, Thurs: 10 am - 7 pm</value>
+        </Data>
+        <Data name="Url">
+          <value>From Email elections@pima.gov</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Miller Golf Links Library</name>
+      <address>9640 E Golf Links Tucson AZ 85730</address>
+      <description><![CDATA[Address: 9640 E Golf Links<br>City: Tucson<br>State: AZ<br>Zip: 85730<br>Notes: Just east of Harrison Rd. Next to Tucson Police - Rincon Substation Curbside ballot drop off available 10/26/20 through 10/30/20 Hours: Mon, Weds, Fri: 9 am - 5 pm Tues, Thurs: 10 am - 7 pm<br>Url: From Email elections@pima.gov]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="Address">
+          <value>9640 E Golf Links</value>
+        </Data>
+        <Data name="City">
+          <value>Tucson</value>
+        </Data>
+        <Data name="State">
+          <value>AZ</value>
+        </Data>
+        <Data name="Zip">
+          <value>85730</value>
+        </Data>
+        <Data name="Notes">
+          <value>Just east of Harrison Rd. Next to Tucson Police - Rincon Substation Curbside ballot drop off available 10/26/20 through 10/30/20 Hours: Mon, Weds, Fri: 9 am - 5 pm Tues, Thurs: 10 am - 7 pm</value>
+        </Data>
+        <Data name="Url">
+          <value>From Email elections@pima.gov</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Kirk- Bear Canyon Library</name>
+      <address>8959 E Tanque Verde Rd. Tucson AZ 85749</address>
+      <description><![CDATA[Address: 8959 E Tanque Verde Rd.<br>City: Tucson<br>State: AZ<br>Zip: 85749<br>Notes: In shopping center, northeast corner of Tanque Verde Rd. and Bear Canyon Rd. Curbside ballot drop off available 10/26/20 through 10/30/20 Hours: Mon, Weds, Fri: 9 am - 5 pm; Tues, Thurs: 10 am - 7 pm<br>Url: From Email elections@pima.gov]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="Address">
+          <value>8959 E Tanque Verde Rd.</value>
+        </Data>
+        <Data name="City">
+          <value>Tucson</value>
+        </Data>
+        <Data name="State">
+          <value>AZ</value>
+        </Data>
+        <Data name="Zip">
+          <value>85749</value>
+        </Data>
+        <Data name="Notes">
+          <value>In shopping center, northeast corner of Tanque Verde Rd. and Bear Canyon Rd. Curbside ballot drop off available 10/26/20 through 10/30/20 Hours: Mon, Weds, Fri: 9 am - 5 pm; Tues, Thurs: 10 am - 7 pm</value>
+        </Data>
+        <Data name="Url">
+          <value>From Email elections@pima.gov</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Mission Library</name>
+      <address>3770 S Mission Rd Tucson AZ 85713</address>
+      <description><![CDATA[Address: 3770 S Mission Rd<br>City: Tucson<br>State: AZ<br>Zip: 85713<br>Notes: At Mission Rd. and Ajo Way Curbside ballot drop off available 10/26/20 through 10/30/20 Hours: Mon, Weds, Fri: 9 am - 5 pm; Tues, Thurs: 10 am - 7 pm<br>Url: From Email elections@pima.gov]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="Address">
+          <value>3770 S Mission Rd</value>
+        </Data>
+        <Data name="City">
+          <value>Tucson</value>
+        </Data>
+        <Data name="State">
+          <value>AZ</value>
+        </Data>
+        <Data name="Zip">
+          <value>85713</value>
+        </Data>
+        <Data name="Notes">
+          <value>At Mission Rd. and Ajo Way Curbside ballot drop off available 10/26/20 through 10/30/20 Hours: Mon, Weds, Fri: 9 am - 5 pm; Tues, Thurs: 10 am - 7 pm</value>
+        </Data>
+        <Data name="Url">
+          <value>From Email elections@pima.gov</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>The Good Shepherd UCC</name>
+      <address>17750 S La Canada Sahuarita AZ 85629</address>
+      <description><![CDATA[Address: 17750 S La Canada<br>City: Sahuarita<br>State: AZ<br>Zip: 85629<br>Notes: Approximately half mile south of Twin Buttes Rd. and 2 miles north of Duval Mine Rd. Curbside ballot drop off available 10/26/20 through 10/30/20 Hours: M - F 9 am - 5 pm<br>Url: From Email elections@pima.gov]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="Address">
+          <value>17750 S La Canada</value>
+        </Data>
+        <Data name="City">
+          <value>Sahuarita</value>
+        </Data>
+        <Data name="State">
+          <value>AZ</value>
+        </Data>
+        <Data name="Zip">
+          <value>85629</value>
+        </Data>
+        <Data name="Notes">
+          <value>Approximately half mile south of Twin Buttes Rd. and 2 miles north of Duval Mine Rd. Curbside ballot drop off available 10/26/20 through 10/30/20 Hours: M - F 9 am - 5 pm</value>
+        </Data>
+        <Data name="Url">
+          <value>From Email elections@pima.gov</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Arizona City Sheriff Substation</name>
+      <address>13970 S Sunland Gin Rd Arizona City AZ 85123</address>
+      <description><![CDATA[Address: 13970 S Sunland Gin Rd<br>City: Arizona City<br>State: AZ<br>Zip: 85123<br>Notes: Drop Box<br>Url: https://www.pinalcountyaz.gov/Vote/Pages/EarlyBallotDropOffSites.aspx]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="Address">
+          <value>13970 S Sunland Gin Rd</value>
+        </Data>
+        <Data name="City">
+          <value>Arizona City</value>
+        </Data>
+        <Data name="State">
+          <value>AZ</value>
+        </Data>
+        <Data name="Zip">
+          <value>85123</value>
+        </Data>
+        <Data name="Notes">
+          <value>Drop Box</value>
+        </Data>
+        <Data name="Url">
+          <value>https://www.pinalcountyaz.gov/Vote/Pages/EarlyBallotDropOffSites.aspx</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Eloy Public Health</name>
+      <address>302 E 5th St Eloy AZ 85131</address>
+      <description><![CDATA[Address: 302 E 5th St<br>City: Eloy<br>State: AZ<br>Zip: 85131<br>Notes: Drop Box<br>Url: https://www.pinalcountyaz.gov/Vote/Pages/EarlyBallotDropOffSites.aspx]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="Address">
+          <value>302 E 5th St</value>
+        </Data>
+        <Data name="City">
+          <value>Eloy</value>
+        </Data>
+        <Data name="State">
+          <value>AZ</value>
+        </Data>
+        <Data name="Zip">
+          <value>85131</value>
+        </Data>
+        <Data name="Notes">
+          <value>Drop Box</value>
+        </Data>
+        <Data name="Url">
+          <value>https://www.pinalcountyaz.gov/Vote/Pages/EarlyBallotDropOffSites.aspx</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Oracle Justice Court</name>
+      <address>1470 N Justice Dr Oracle AZ 85623</address>
+      <description><![CDATA[Address: 1470 N Justice Dr<br>City: Oracle<br>State: AZ<br>Zip: 85623<br>Notes: Drop Box<br>Url: https://www.pinalcountyaz.gov/Vote/Pages/EarlyBallotDropOffSites.aspx]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="Address">
+          <value>1470 N Justice Dr</value>
+        </Data>
+        <Data name="City">
+          <value>Oracle</value>
+        </Data>
+        <Data name="State">
+          <value>AZ</value>
+        </Data>
+        <Data name="Zip">
+          <value>85623</value>
+        </Data>
+        <Data name="Notes">
+          <value>Drop Box</value>
+        </Data>
+        <Data name="Url">
+          <value>https://www.pinalcountyaz.gov/Vote/Pages/EarlyBallotDropOffSites.aspx</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Pinal County Elections Department</name>
+      <address>168 S Main St Coolidge AZ 85123</address>
+      <description><![CDATA[Address: 168 S Main St<br>City: Coolidge<br>State: AZ<br>Zip: 85123<br>Notes: Drop Box<br>Url: https://www.pinalcountyaz.gov/Vote/Pages/EarlyBallotDropOffSites.aspx]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="Address">
+          <value>168 S Main St</value>
+        </Data>
+        <Data name="City">
+          <value>Coolidge</value>
+        </Data>
+        <Data name="State">
+          <value>AZ</value>
+        </Data>
+        <Data name="Zip">
+          <value>85123</value>
+        </Data>
+        <Data name="Notes">
+          <value>Drop Box</value>
+        </Data>
+        <Data name="Url">
+          <value>https://www.pinalcountyaz.gov/Vote/Pages/EarlyBallotDropOffSites.aspx</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Apache Junction Office</name>
+      <address>575 N Idaho Rd Ste #800 Apache Junction AZ 85119</address>
+      <description><![CDATA[Address: 575 N Idaho Rd Ste #800<br>City: Apache Junction<br>State: AZ<br>Zip: 85119<br>Notes: Drop Site<br>Url: https://www.pinalcountyaz.gov/Vote/Pages/EarlyBallotDropOffSites.aspx]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="Address">
+          <value>575 N Idaho Rd Ste #800</value>
+        </Data>
+        <Data name="City">
+          <value>Apache Junction</value>
+        </Data>
+        <Data name="State">
+          <value>AZ</value>
+        </Data>
+        <Data name="Zip">
+          <value>85119</value>
+        </Data>
+        <Data name="Notes">
+          <value>Drop Site</value>
+        </Data>
+        <Data name="Url">
+          <value>https://www.pinalcountyaz.gov/Vote/Pages/EarlyBallotDropOffSites.aspx</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Casa Grande Office</name>
+      <address>820 E Cottonwood Ln Ste A-2 Casa Grande AZ 85122</address>
+      <description><![CDATA[Address: 820 E Cottonwood Ln Ste A-2<br>City: Casa Grande<br>State: AZ<br>Zip: 85122<br>Notes: Drop Site<br>Url: https://www.pinalcountyaz.gov/Vote/Pages/EarlyBallotDropOffSites.aspx]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="Address">
+          <value>820 E Cottonwood Ln Ste A-2</value>
+        </Data>
+        <Data name="City">
+          <value>Casa Grande</value>
+        </Data>
+        <Data name="State">
+          <value>AZ</value>
+        </Data>
+        <Data name="Zip">
+          <value>85122</value>
+        </Data>
+        <Data name="Notes">
+          <value>Drop Site</value>
+        </Data>
+        <Data name="Url">
+          <value>https://www.pinalcountyaz.gov/Vote/Pages/EarlyBallotDropOffSites.aspx</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Florence Office</name>
+      <address>31 N Pinal St Bldg E Florence AZ 85132</address>
+      <description><![CDATA[Address: 31 N Pinal St Bldg E<br>City: Florence<br>State: AZ<br>Zip: 85132<br>Notes: Drop Site<br>Url: https://www.pinalcountyaz.gov/Vote/Pages/EarlyBallotDropOffSites.aspx]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="Address">
+          <value>31 N Pinal St Bldg E</value>
+        </Data>
+        <Data name="City">
+          <value>Florence</value>
+        </Data>
+        <Data name="State">
+          <value>AZ</value>
+        </Data>
+        <Data name="Zip">
+          <value>85132</value>
+        </Data>
+        <Data name="Notes">
+          <value>Drop Site</value>
+        </Data>
+        <Data name="Url">
+          <value>https://www.pinalcountyaz.gov/Vote/Pages/EarlyBallotDropOffSites.aspx</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Camp Verde Town Hall</name>
+      <address>473 S. Main St. Camp Verde AZ 86322</address>
+      <description><![CDATA[Address: 473 S. Main St.<br>City: Camp Verde<br>State: AZ<br>Zip: 86322<br>Notes: <br>Url: https://www.yavapai.us/electionsvr/]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="Address">
+          <value>473 S. Main St.</value>
+        </Data>
+        <Data name="City">
+          <value>Camp Verde</value>
+        </Data>
+        <Data name="State">
+          <value>AZ</value>
+        </Data>
+        <Data name="Zip">
+          <value>86322</value>
+        </Data>
+        <Data name="Notes">
+          <value/>
+        </Data>
+        <Data name="Url">
+          <value>https://www.yavapai.us/electionsvr/</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Yavapai-Apache Nation Community Center</name>
+      <address>3462 Smith Ave. Camp Verde AZ 86322</address>
+      <description><![CDATA[Address: 3462 Smith Ave.<br>City: Camp Verde<br>State: AZ<br>Zip: 86322<br>Notes: <br>Url: https://www.yavapai.us/electionsvr/]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="Address">
+          <value>3462 Smith Ave.</value>
+        </Data>
+        <Data name="City">
+          <value>Camp Verde</value>
+        </Data>
+        <Data name="State">
+          <value>AZ</value>
+        </Data>
+        <Data name="Zip">
+          <value>86322</value>
+        </Data>
+        <Data name="Notes">
+          <value/>
+        </Data>
+        <Data name="Url">
+          <value>https://www.yavapai.us/electionsvr/</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Chino Valley Town Hall</name>
+      <address>202 N. State Route 89 Chino Valley AZ 86323</address>
+      <description><![CDATA[Address: 202 N. State Route 89<br>City: Chino Valley<br>State: AZ<br>Zip: 86323<br>Notes: <br>Url: https://www.yavapai.us/electionsvr/]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="Address">
+          <value>202 N. State Route 89</value>
+        </Data>
+        <Data name="City">
+          <value>Chino Valley</value>
+        </Data>
+        <Data name="State">
+          <value>AZ</value>
+        </Data>
+        <Data name="Zip">
+          <value>86323</value>
+        </Data>
+        <Data name="Notes">
+          <value/>
+        </Data>
+        <Data name="Url">
+          <value>https://www.yavapai.us/electionsvr/</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Clarkdale Town Hall</name>
+      <address>39 N. 9th St. Clarkdale AZ 86324</address>
+      <description><![CDATA[Address: 39 N. 9th St.<br>City: Clarkdale<br>State: AZ<br>Zip: 86324<br>Notes: <br>Url: https://www.yavapai.us/electionsvr/]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="Address">
+          <value>39 N. 9th St.</value>
+        </Data>
+        <Data name="City">
+          <value>Clarkdale</value>
+        </Data>
+        <Data name="State">
+          <value>AZ</value>
+        </Data>
+        <Data name="Zip">
+          <value>86324</value>
+        </Data>
+        <Data name="Notes">
+          <value/>
+        </Data>
+        <Data name="Url">
+          <value>https://www.yavapai.us/electionsvr/</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>County Administration Building</name>
+      <address>10 S. 6th St. Cottonwood AZ 86326</address>
+      <description><![CDATA[Address: 10 S. 6th St.<br>City: Cottonwood<br>State: AZ<br>Zip: 86326<br>Notes: <br>Url: https://www.yavapai.us/electionsvr/]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="Address">
+          <value>10 S. 6th St.</value>
+        </Data>
+        <Data name="City">
+          <value>Cottonwood</value>
+        </Data>
+        <Data name="State">
+          <value>AZ</value>
+        </Data>
+        <Data name="Zip">
+          <value>86326</value>
+        </Data>
+        <Data name="Notes">
+          <value/>
+        </Data>
+        <Data name="Url">
+          <value>https://www.yavapai.us/electionsvr/</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Town Hall</name>
+      <address>2735 S. Highway 69 Dewey-Humboldt AZ 86327</address>
+      <description><![CDATA[Address: 2735 S. Highway 69<br>City: Dewey-Humboldt<br>State: AZ<br>Zip: 86327<br>Notes: <br>Url: https://www.yavapai.us/electionsvr/]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="Address">
+          <value>2735 S. Highway 69</value>
+        </Data>
+        <Data name="City">
+          <value>Dewey-Humboldt</value>
+        </Data>
+        <Data name="State">
+          <value>AZ</value>
+        </Data>
+        <Data name="Zip">
+          <value>86327</value>
+        </Data>
+        <Data name="Notes">
+          <value/>
+        </Data>
+        <Data name="Url">
+          <value>https://www.yavapai.us/electionsvr/</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Jerome Town Hall</name>
+      <address>600 Clark St. Jerome AZ 86331</address>
+      <description><![CDATA[Address: 600 Clark St.<br>City: Jerome<br>State: AZ<br>Zip: 86331<br>Notes: <br>Url: https://www.yavapai.us/electionsvr/]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="Address">
+          <value>600 Clark St.</value>
+        </Data>
+        <Data name="City">
+          <value>Jerome</value>
+        </Data>
+        <Data name="State">
+          <value>AZ</value>
+        </Data>
+        <Data name="Zip">
+          <value>86331</value>
+        </Data>
+        <Data name="Notes">
+          <value/>
+        </Data>
+        <Data name="Url">
+          <value>https://www.yavapai.us/electionsvr/</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Public Library</name>
+      <address>16 Big Chino Rd. Paulden AZ 86334</address>
+      <description><![CDATA[Address: 16 Big Chino Rd.<br>City: Paulden<br>State: AZ<br>Zip: 86334<br>Notes: <br>Url: https://www.yavapai.us/electionsvr/]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="Address">
+          <value>16 Big Chino Rd.</value>
+        </Data>
+        <Data name="City">
+          <value>Paulden</value>
+        </Data>
+        <Data name="State">
+          <value>AZ</value>
+        </Data>
+        <Data name="Zip">
+          <value>86334</value>
+        </Data>
+        <Data name="Notes">
+          <value/>
+        </Data>
+        <Data name="Url">
+          <value>https://www.yavapai.us/electionsvr/</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>County Administration Building</name>
+      <address>1015 Fair St. Prescott AZ 86305</address>
+      <description><![CDATA[Address: 1015 Fair St.<br>City: Prescott<br>State: AZ<br>Zip: 86305<br>Notes: <br>Url: https://www.yavapai.us/electionsvr/]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="Address">
+          <value>1015 Fair St.</value>
+        </Data>
+        <Data name="City">
+          <value>Prescott</value>
+        </Data>
+        <Data name="State">
+          <value>AZ</value>
+        </Data>
+        <Data name="Zip">
+          <value>86305</value>
+        </Data>
+        <Data name="Notes">
+          <value/>
+        </Data>
+        <Data name="Url">
+          <value>https://www.yavapai.us/electionsvr/</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Town Hall</name>
+      <address>7501 Skoog Blvd Prescott Valley AZ 86314</address>
+      <description><![CDATA[Address: 7501 Skoog Blvd<br>City: Prescott Valley<br>State: AZ<br>Zip: 86314<br>Notes: <br>Url: https://www.yavapai.us/electionsvr/]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="Address">
+          <value>7501 Skoog Blvd</value>
+        </Data>
+        <Data name="City">
+          <value>Prescott Valley</value>
+        </Data>
+        <Data name="State">
+          <value>AZ</value>
+        </Data>
+        <Data name="Zip">
+          <value>86314</value>
+        </Data>
+        <Data name="Notes">
+          <value/>
+        </Data>
+        <Data name="Url">
+          <value>https://www.yavapai.us/electionsvr/</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>City Hall</name>
+      <address>102 Roadrunner Dr. Sedona AZ 86336</address>
+      <description><![CDATA[Address: 102 Roadrunner Dr.<br>City: Sedona<br>State: AZ<br>Zip: 86336<br>Notes: <br>Url: https://www.yavapai.us/electionsvr/]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="Address">
+          <value>102 Roadrunner Dr.</value>
+        </Data>
+        <Data name="City">
+          <value>Sedona</value>
+        </Data>
+        <Data name="State">
+          <value>AZ</value>
+        </Data>
+        <Data name="Zip">
+          <value>86336</value>
+        </Data>
+        <Data name="Notes">
+          <value/>
+        </Data>
+        <Data name="Url">
+          <value>https://www.yavapai.us/electionsvr/</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>U.S. Post Office</name>
+      <address>3085 S Iron Springs Rd. Skull Valley AZ 86338</address>
+      <description><![CDATA[Address: 3085 S Iron Springs Rd.<br>City: Skull Valley<br>State: AZ<br>Zip: 86338<br>Notes: <br>Url: https://www.yavapai.us/electionsvr/]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="Address">
+          <value>3085 S Iron Springs Rd.</value>
+        </Data>
+        <Data name="City">
+          <value>Skull Valley</value>
+        </Data>
+        <Data name="State">
+          <value>AZ</value>
+        </Data>
+        <Data name="Zip">
+          <value>86338</value>
+        </Data>
+        <Data name="Notes">
+          <value/>
+        </Data>
+        <Data name="Url">
+          <value>https://www.yavapai.us/electionsvr/</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Public Library</name>
+      <address>17320 E Mule Deer Dr. Spring Valley AZ 86333</address>
+      <description><![CDATA[Address: 17320 E Mule Deer Dr.<br>City: Spring Valley<br>State: AZ<br>Zip: 86333<br>Notes: <br>Url: https://www.yavapai.us/electionsvr/]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="Address">
+          <value>17320 E Mule Deer Dr.</value>
+        </Data>
+        <Data name="City">
+          <value>Spring Valley</value>
+        </Data>
+        <Data name="State">
+          <value>AZ</value>
+        </Data>
+        <Data name="Zip">
+          <value>86333</value>
+        </Data>
+        <Data name="Notes">
+          <value/>
+        </Data>
+        <Data name="Url">
+          <value>https://www.yavapai.us/electionsvr/</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+  </Document>
+</kml>
