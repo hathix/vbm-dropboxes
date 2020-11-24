@@ -1,6 +1,6 @@
 // Georgia scraping
-// Run this in the console at
-// https://gaballotdropbox.org/
+// Run this in the console at https://gaballotdropbox.org/
+// (make sure you hit "Browse Ballot Box Locations by County" first)
 var data = [];
 
 // $ is weird here; it's a React-y think, not jQuery
@@ -57,8 +57,6 @@ async function go(){
           // 1 is the address
           // 2 is hours (optional)
           // 3 is misc notes (optional)
-          // FIXME: sometimes the location isn't given so address is #0
-          // (check this by seeing if child 0 is an <a>, since address is)
           data.push({
             county: county,
             location: arrayGet(div.children, 0, "innerHTML"),
